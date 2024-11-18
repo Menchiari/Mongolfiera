@@ -72,3 +72,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Mongolfiera1/DerivedDataCache
+/Mongolfiera1/Intermediate
+/Mongolfiera1/Packaged
+/Mongolfiera1/Saved
+/Mongolfiera1/Build
+/Mongolfiera1/Binaries
